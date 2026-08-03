@@ -13,6 +13,7 @@ This version includes:
 ## 📸 Screenshot
 
 > > Conky Preview
+<img width="286" height="625" alt="image" src="https://github.com/user-attachments/assets/49e83b74-6a04-492d-919b-fa76aa712124" />
 
 ---
 
