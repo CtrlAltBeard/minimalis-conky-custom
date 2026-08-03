@@ -102,6 +102,17 @@ chmod +x install.sh
 
 ---
 
+## ❓ Troubleshooting
+- **Conky doesn’t start?**
+  Run `conky` in the terminal to see errors.
+  Common issues: Missing fonts (`ConkySymbols.ttf` or `Roboto Mono`).
+- **GPU temp not showing?**
+  Check `sensors` output with:
+  ```bash
+  sensors   grep -i temp
+  
+---
+
 ## 📜 License
 
 This project is licensed under **MIT License** – see [LICENSE](LICENSE) for details.  
