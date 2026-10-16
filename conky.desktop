@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Conky
+Exec=sh -c 'conky -c "$HOME/.conkyrc"'
+Icon=utilities-system-monitor
+StartupNotify=false
+Terminal=false
+X-GNOME-Autostart-enabled=true
