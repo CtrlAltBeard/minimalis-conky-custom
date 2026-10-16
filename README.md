@@ -15,7 +15,7 @@ This version includes:
 
 ## 📸 Screenshot
 
-<img width="302" height="950" alt="conky" src="https://github.com/user-attachments/assets/feca87f2-55ef-4a7d-8006-72d4de687219" />
+<img width="302" height="950" alt="conky" src="https://github.com/CtrlAltBeard/minimalis-conky-custom/blob/main/conky.png" />
 
 ---
 
